@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abiol4001
 - 👀 I’m interested in developing a good responsive website 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m a Front-end Developer with some backend knowledge. I'm going Fullstack soon 😁
 - 💞️ I’m looking to collaborate on any project...
 - 📫 How to reach me => Twitter @4biol4
 
